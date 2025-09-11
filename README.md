@@ -5,7 +5,7 @@
 </p>
 
 <H1> Mel Letícia - Sobre mim: 👩🏻‍💻</H1>
-Me chamo Mel Letícia, sou estudante de Tecnologia da Informação com foco em desenvolvimento de software fullstack. Desde o início, me identifiquei com linguagens e frameworks como Python, JavaScript, SQL,Flask, Django, e estou construindo minha carreira nessas áreas. Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe. Atualmente, me preparo para entrar no mercado de trabalho, aplicando meus conhecimentos em projetos práticos e aprofundando meu aprendizado. Estou em busca de oportunidades para ingressar no mercado de tecnologia como desenvolvedora de software, aplicando meus conhecimentos e crescendo profissionalmente.
+Me chamo Mel Letícia, sou estudante de Tecnologia da Informação com foco em desenvolvimento de software fullstack. Desde o início, me identifiquei com linguagens e frameworks como Python, JavaScript, SQL, Flask, Django, e estou construindo minha carreira nessas áreas. Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe. Atualmente, me preparo para entrar no mercado de trabalho, aplicando meus conhecimentos em projetos práticos e aprofundando meu aprendizado. Estou em busca de oportunidades para ingressar no mercado de tecnologia como desenvolvedora de software, aplicando meus conhecimentos e crescendo profissionalmente.
 
 <p align="left">
     <a href="https://github.com/melleticiaassis?tab=repositories&sort=stargazers">
