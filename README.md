@@ -4,20 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&size=45&duration=4000&pause=1000&color=228B22&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Mel." alt="Typing SVG" />
 </p>
 
-# Mel Letícia – Sobre mim 👩🏻‍💻
+# Mel Letícia – Sobre mim
 
 Me chamo Mel Letícia, sou estudante de Tecnologia da Informação com foco em desenvolvimento de software. Desde o início, me identifiquei com linguagens e tecnologias como HTML, CSS, JavaScript, Python e SQL, e venho construindo minha carreira nessas áreas.
 
 Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe. Atualmente, me preparo para entrar no mercado de trabalho aplicando meus conhecimentos em projetos práticos e aprofundando meu aprendizado. Busco oportunidades para ingressar no mercado de tecnologia como desenvolvedora de software e crescer profissionalmente.
 
----
 
-  Entre em contato comigo
+
+##  Entre em contato comigo
 
  Estou aberta a oportunidades, conexões e troca de conhecimentos.
 
--  E-mail: melleticiaassis@gmail.com  
--  LinkedIn: https://www.linkedin.com/in/mel-leticia-assis  
+-  **E-mail:** melleticiaassis@gmail.com  
+-  **LinkedIn:** https://www.linkedin.com/in/melleticiaassis  
 
 
 
@@ -39,7 +39,7 @@ Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe.
 </p>
 
 
-
+##  Linguagens e Tecnologias
 
 <p align="center">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
