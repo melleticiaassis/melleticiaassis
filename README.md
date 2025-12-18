@@ -12,12 +12,12 @@ Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe.
 
 ---
 
-## 📫 Entre em contato comigo
+##  Entre em contato comigo
 
-💌 Estou aberta a oportunidades, conexões e troca de conhecimentos.
+ Estou aberta a oportunidades, conexões e troca de conhecimentos.
 
-- 📧 **E-mail:** melleticiaassis@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mel-leticia-assis  
+-  **E-mail:** melleticiaassis@gmail.com  
+-  **LinkedIn:** https://www.linkedin.com/in/mel-leticia-assis  
 
 ---
 
