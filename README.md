@@ -12,14 +12,14 @@ Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe.
 
 ---
 
-##  Entre em contato comigo
+  Entre em contato comigo
 
  Estou aberta a oportunidades, conexões e troca de conhecimentos.
 
--  **E-mail:** melleticiaassis@gmail.com  
--  **LinkedIn:** https://www.linkedin.com/in/mel-leticia-assis  
+-  E-mail: melleticiaassis@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/mel-leticia-assis  
 
----
+
 
 <p align="left">
   <a href="https://github.com/melleticiaassis?tab=repositories&sort=stargazers">
@@ -38,9 +38,8 @@ Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe.
   </a>
 </p>
 
----
 
-## 🚀 Linguagens e Tecnologias
+
 
 <p align="center">
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
