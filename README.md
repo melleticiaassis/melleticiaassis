@@ -16,7 +16,7 @@ Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe.
 
  Estou aberta a oportunidades, conexões e troca de conhecimentos.
 
--  **E-mail:** melleticiaassis@gmail.com  
+-  **E-mail:** lmelleticiaassis@gmail.com  
 -  **LinkedIn:** https://www.linkedin.com/in/melleticiaassis  
 
 
