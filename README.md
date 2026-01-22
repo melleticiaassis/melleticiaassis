@@ -6,7 +6,7 @@
 
 # Mel Letícia – Sobre mim
 
-Me chamo Mel Letícia, sou estudante de Tecnologia da Informação com foco em desenvolvimento de software. Desde o início, me identifiquei com linguagens e tecnologias como HTML, CSS, JavaScript, Python e SQL, e venho construindo minha carreira nessas áreas.
+Me chamo Mel Letícia, sou estudante de Tecnologia da Informação com foco em desenvolvimento de software. Desde o início, me identifiquei com linguagens e tecnologias como HTML, CSS, JavaScript e Python, e venho construindo minha carreira nessas áreas.
 
 Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe. Atualmente, me preparo para entrar no mercado de trabalho aplicando meus conhecimentos em projetos práticos e aprofundando meu aprendizado. Busco oportunidades para ingressar no mercado de tecnologia como desenvolvedora de software e crescer profissionalmente.
 
@@ -46,7 +46,6 @@ Tenho mente aberta, gosto de aprender, resolver problemas e trabalhar em equipe.
   <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
