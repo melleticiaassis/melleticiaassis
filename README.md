@@ -59,18 +59,23 @@ I am proactive, adaptable and continuously improving through hands-on projects. 
 ## Activity Overview
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=melleticiaassis&show_icons=true&title_color=2e8b57&icon_color=90EE90&text_color=2f4f4f&bg_color=ffffff&border_radius=10"
-    width="420"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=melleticiaassis&show_icons=true&hide=issues&rank_icon=percentile&title_color=2e8b57&icon_color=90EE90&text_color=2f4f4f&bg_color=ffffff&hide_border=true&card_width=480"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melleticiaassis&layout=compact&size_weight=0.5&count_weight=0.5&title_color=2e8b57&text_color=2f4f4f&bg_color=ffffff&hide_border=true&card_width=480"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melleticiaassis&layout=compact&title_color=2e8b57&text_color=2f4f4f&bg_color=ffffff&border_radius=10"
-    width="420"
-  />
+  <img height="160" src="https://streak-stats.demolab.com?user=melleticiaassis&background=ffffff&ring=2e8b57&fire=90EE90&currStreakLabel=2e8b57&sideLabels=2f4f4f&dates=2f4f4f&hide_border=true"/>
 </p>
+
+---
+
+
+## Professional Focus
+
+- 🌿 Clean and accessible front-end architecture  
+- ⚡ Performance-oriented interfaces  
+- 🔗 API integration and structured back-end logic  
+- 📚 Continuous learning and real-world project building  
 
 ---
 
@@ -94,3 +99,5 @@ I am proactive, adaptable and continuously improving through hands-on projects. 
     alt="Profile views"
   />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90EE90&section=footer"/>
