@@ -27,40 +27,29 @@ I am proactive, adaptable and continuously improving through hands-on projects. 
 
 ---
 
-## Languages and Technologies
+## Languages & Technologies
+
 
 <p align="center">
-  <strong>Front-End</strong><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Back-End & Databases</strong><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Frameworks & Tools</strong><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
+
 
 ---
 
 ## Activity Overview
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=melleticiaassis&show_icons=true&hide=issues&rank_icon=percentile&title_color=2e8b57&icon_color=90EE90&text_color=2f4f4f&bg_color=ffffff&hide_border=true&card_width=480"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melleticiaassis&layout=compact&size_weight=0.5&count_weight=0.5&title_color=2e8b57&text_color=2f4f4f&bg_color=ffffff&hide_border=true&card_width=480"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=melleticiaassis&show_icons=true&hide=issues&rank_icon=percentile&custom_title=Mel%20Leticia%20%7C%20GitHub%20Stats&title_color=2e8b57&icon_color=90EE90&text_color=2f4f4f&bg_color=ffffff&hide_border=true"/>
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melleticiaassis&layout=donut&size_weight=0.5&count_weight=0.5&title_color=2e8b57&text_color=2f4f4f&bg_color=ffffff&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -69,13 +58,11 @@ I am proactive, adaptable and continuously improving through hands-on projects. 
 
 ---
 
+## Contribution Activity
 
-## Professional Focus
-
-- 🌿 Clean and accessible front-end architecture  
-- ⚡ Performance-oriented interfaces  
-- 🔗 API integration and structured back-end logic  
-- 📚 Continuous learning and real-world project building  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melleticiaassis&bg_color=ffffff&color=2e8b57&line=90EE90&point=2e8b57&hide_border=true"/>
+</p>
 
 ---
 
@@ -83,21 +70,18 @@ I am proactive, adaptable and continuously improving through hands-on projects. 
 
 <p align="center">
   <a href="mailto:lmelleticiaassis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-90EE90?style=for-the-badge&color=90EE90" />
+    <img src="https://img.shields.io/badge/Email-90EE90?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/melleticiaassis">
-    <img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&color=90EE90" />
+    <img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge" />
   </a>
   <a href="https://github.com/melleticiaassis">
-    <img src="https://img.shields.io/badge/GitHub-90EE90?style=for-the-badge&color=90EE90" />
+    <img src="https://img.shields.io/badge/GitHub-90EE90?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=melleticiaassis&color=90EE90&style=flat-square"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=melleticiaassis&color=90EE90&style=flat-square"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90EE90&section=footer"/>
