@@ -9,18 +9,20 @@
 
 # Mel Letícia — About Me
 
-I am **Mel Letícia**, a **Technology Information student** focused on **software development**, with strong interest in **front-end engineering** and solid foundations in **back-end concepts**.
+I am **Mel Letícia**, a **Software Development student** passionate about building modern web applications by combining **Front-End development** with my growing knowledge of **Back-End development using Python**.
 
-I work mainly with **HTML, CSS, JavaScript and TypeScript**, building responsive, accessible and well-structured interfaces. I also develop projects using **Python with Flask**, **Node.js**, and **SQL**, always focusing on clean code, usability and real-world solutions.
+I build responsive and well-structured interfaces using **HTML, CSS, JavaScript and TypeScript**, applying my background in **UI/UX design** to create intuitive and user-centered experiences.
 
-I am proactive, adaptable and continuously improving through hands-on projects. My goal is to grow as a **software developer**, contributing to meaningful products and collaborative teams.
+At the same time, I am expanding my skills in **Python**, studying **Back-End development, APIs with FastAPI and SQL databases**, aiming to build complete and scalable web applications.
+
+Through practical projects and continuous learning, I am constantly improving my ability to connect **interface design and application logic**, growing as a developer and strengthening my path toward **Python Back-End development**.
 
 ---
 
 ## Core Strengths
 
-- Front-end development with semantic HTML, modern CSS and interactive JavaScript  
-- Component-based thinking and UI consistency  
+- Front-end development with semantic HTML5, modern CSS3 and interactive JavaScript  
+- Component-based thinking and UI/UX consistency  
 - Strong focus on clean structure, responsiveness and usability  
 - Experience integrating front-end with APIs and back-end services  
 - Continuous learning through practical projects and experimentation  
@@ -36,7 +38,8 @@ I am proactive, adaptable and continuously improving through hands-on projects. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
