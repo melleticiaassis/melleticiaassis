@@ -7,41 +7,85 @@
   />
 </p>
 
-# Mel Letícia — About Me
+## About Me
 
-I am **Mel Letícia**, a **Software Development student** passionate about building modern web applications by combining **Front-End development** with my growing knowledge of **Back-End development using Python**.
+Hi! I'm **Mel Letícia**, a Computer Science student passionate about technology and driven by continuous learning.
 
-I build responsive and well-structured interfaces using **HTML, CSS, JavaScript and TypeScript**, applying my background in **UI/UX design** to create intuitive and user-centered experiences.
+My primary focus is **Python**, with a strong interest in **Back-End Development**, **Machine Learning**, and **Cloud Computing (AWS)**.
 
-At the same time, I am expanding my skills in **Python**, studying **Back-End development, APIs with FastAPI and SQL databases**, aiming to build complete and scalable web applications.
+I'm also expanding my expertise in **Data Analysis**, **SQL**, and **Software Engineering** by building practical projects and continuously exploring new technologies.
 
-Through practical projects and continuous learning, I am constantly improving my ability to connect **interface design and application logic**, growing as a developer and strengthening my path toward **Python Back-End development**.
+My goal is to become a Back-End Engineer who develops scalable applications, intelligent systems, and data-driven solutions that create real-world impact.
 
 ---
 
 ## Core Strengths
 
-- Front-end development with semantic HTML5, modern CSS3 and interactive JavaScript  
-- Component-based thinking and UI/UX consistency  
-- Strong focus on clean structure, responsiveness and usability  
-- Experience integrating front-end with APIs and back-end services  
-- Continuous learning through practical projects and experimentation  
+- Python Back-End Development
+- REST API Development with FastAPI
+- SQL Database Modeling and Queries
+- Front-End Development with HTML, CSS, JavaScript and TypeScript
+- UI/UX Design Principles
+- Data Analysis Fundamentals
+- Clean Code and Software Engineering Practices
+- Continuous Learning through Real Projects 
 
 ---
 
-## Languages & Technologies
-
+## Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+---
+
+## Frameworks & Technologies
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
+
+---
+
+## Cloud & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+</p>
+
+---
+
+## Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Science-A51C30?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+
+</p>
+
+
+
+
+
+
+
+
+
 
 
 ---
