@@ -26,6 +26,7 @@ My goal is to become a Back-End Engineer who develops scalable applications, int
 - SQL Database Modeling and Queries
 - Front-End Development with HTML, CSS, JavaScript and TypeScript
 - UI/UX Design Principles
+- Computer Science 
 - Data Analysis Fundamentals
 - Clean Code and Software Engineering Practices
 - Continuous Learning through Real Projects 
